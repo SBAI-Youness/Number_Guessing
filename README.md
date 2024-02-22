@@ -1,1 +1,1 @@
-Number guessing is a simple game coded in C, it lets the user guess the secret number between 1 and 100 with indications.
+This is a simple C program for a guessing game where the user has to guess a secret number between 1 and 100.
